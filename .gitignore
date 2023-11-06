@@ -1,10 +1,15 @@
 # Ignorar archivos específicos
-Practice2/ejercicio1/ejercicio1.exe
-Practice2/ejercicio1/ejercicio1-2.exe
-Practice2/ejercicio2/ejercicio2.exe
-Practice2/ejercicio2/ejercicio2-1.exe
-Practice2/ejercicio2/ficheroA.dat
-Practice2/ejercicio2/ficheroB.dat
+Basics/sample1.exe
+Basics/sample2.exe
+Basics/sample3.exe
+Basics/sample4.exe
+Basics/sample5.exe
+File_Manipulation_Linux/ejercicio1/ejercicio1.exe
+File_Manipulation_Linux/ejercicio1/ejercicio1-2.exe
+File_Manipulation_Linux/ejercicio2/ejercicio2.exe
+File_Manipulation_Linux/ejercicio2/ejercicio2-1.exe
+File_Manipulation_Linux/ejercicio2/ficheroA.dat
+File_Manipulation_Linux/ejercicio2/ficheroB.dat
 Threads/Threads_Windows_Iteration.exe
 Threads/Threads_Windows_Sum.exe
 
