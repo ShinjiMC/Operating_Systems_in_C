@@ -1,0 +1,12 @@
+# Ignorar archivos específicos
+Practice2/ejercicio1/ejercicio1
+Practice2/ejercicio1/ejercicio1-2
+Practice2/ejercicio2/ejercicio2
+Practice2/ejercicio2/ejercicio2-1
+Practice2/ejercicio2/ficheroA
+Practice2/ejercicio2/ficheroB
+Threads/Threads_Windows_Iteration.exe
+Threads/Threads_Windows_Sum.exe
+
+# Ignorar directorio .vscode
+.vscode/
