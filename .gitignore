@@ -20,5 +20,6 @@ Threads2/pthread_kill.exe
 Threads2/pthread_self.exe
 Threads2/thread1.exe
 Threads2/thread2.exe
+Thread_Planners/FCFS.exe
 # Ignorar directorio .vscode
 .vscode/
